@@ -14,7 +14,7 @@ WriteLine();
 if (matrix.GetLength(0)!=matrix.GetLength(1))
 {
     WriteLine("Поменять местами строи и столбцы невозможно");
-    return;
+    
 }
 else
 {
